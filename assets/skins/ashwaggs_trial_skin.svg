@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <!-- Background -->
+  <rect width="64" height="64" fill="#000000" />
+
+  <!-- Player Head -->
+  <rect x="24" y="0" width="16" height="16" fill="#8B4513" />
+  <rect x="24" y="16" width="16" height="16" fill="#8B4513" />
+  <rect x="24" y="32" width="16" height="16" fill="#8B4513" />
+  <rect x="24" y="48" width="16" height="16" fill="#8B4513" />
+
+  <!-- Netherite Chestplate -->
+  <rect x="20" y="16" width="24" height="16" fill="#404040" />
+  <rect x="20" y="32" width="24" height="16" fill="#404040" />
+
+  <!-- Copper Eye Trim -->
+  <rect x="24" y="16" width="16" height="8" fill="#B87333" />
+  <rect x="24" y="32" width="16" height="8" fill="#B87333" />
+
+  <!-- Trial Key -->
+  <rect x="28" y="48" width="8" height="8" fill="#FFD700" />
+  <rect x="28" y="56" width="8" height="8" fill="#FFD700" />
+
+  <!-- Iron, Gold, and Eye Trim Progression -->
+  <rect x="20" y="16" width="24" height="16" fill="#808080" />
+  <rect x="20" y="32" width="24" height="16" fill="#FFD700" />
+  <rect x="24" y="16" width="16" height="8" fill="#B87333" />
+  <rect x="24" y="32" width="16" height="8" fill="#B87333" />
+</svg>
